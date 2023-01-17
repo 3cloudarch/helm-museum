@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  folder-config-connector:
+  - apiVersion: v2
+    created: "2023-01-17T21:18:56.856187942Z"
+    description: GCP Folder
+    digest: d379a9ad40c10517fe08d222deb6225d96982bca9bc6915903ac0e60879e129b
+    home: 3cloudarch.com
+    keywords:
+    - folder
+    - GCP
+    - config connector
+    maintainers:
+    - email: karol@cienkosz.com
+      name: Karol Cienkosz
+    name: folder-config-connector
+    sources:
+    - https://cloud.google.com/config-connector/docs/reference/resource-docs/resourcemanager/folder
+    type: application
+    urls:
+    - https://github.com/3cloudarch/config-connector-charts/releases/download/folder-config-connector-0.0.1/folder-config-connector-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-01-17T21:18:56.856196642Z"
