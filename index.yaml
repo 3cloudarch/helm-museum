@@ -22,6 +22,25 @@ entries:
     version: 0.0.1
   project-config-connector:
   - apiVersion: v2
+    created: "2023-01-23T07:48:41.773030679Z"
+    description: GCP project
+    digest: 09e2d0fe1de89f96fd96b67d5a7bf07c92569279dccbbe9ee981a0f052489c1f
+    home: 3cloudarch.com
+    keywords:
+    - project
+    - GCP
+    - config connector
+    maintainers:
+    - email: karol@cienkosz.com
+      name: Karol Cienkosz
+    name: project-config-connector
+    sources:
+    - https://cloud.google.com/config-connector/docs/reference/resource-docs/resourcemanager/project
+    type: application
+    urls:
+    - https://github.com/3cloudarch/config-connector-charts/releases/download/project-config-connector-0.1.0/project-config-connector-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
     created: "2023-01-17T21:46:51.982588369Z"
     description: GCP project
     digest: c5385a67312b5b44206587bbecb3efa1209d38f6ffb9160775d432de90dc58a0
@@ -40,4 +59,4 @@ entries:
     urls:
     - https://github.com/3cloudarch/config-connector-charts/releases/download/project-config-connector-0.0.1/project-config-connector-0.0.1.tgz
     version: 0.0.1
-generated: "2023-01-17T21:46:51.982594169Z"
+generated: "2023-01-23T07:48:41.773036979Z"
