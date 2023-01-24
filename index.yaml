@@ -59,6 +59,27 @@ entries:
     urls:
     - https://github.com/3cloudarch/config-connector-charts/releases/download/project-config-connector-0.0.1/project-config-connector-0.0.1.tgz
     version: 0.0.1
+  storage-bucket-config-connector:
+  - apiVersion: v2
+    created: "2023-01-24T18:07:05.434195996Z"
+    description: GCP Storage Bucket
+    digest: 7a8679768236370bff2064a71fdf75b96dcd69134fc3f272bf04386ad695fc45
+    home: 3cloudarch.com
+    keywords:
+    - bucket
+    - storage
+    - GCP
+    - config connector
+    maintainers:
+    - email: karol@cienkosz.com
+      name: Karol Cienkosz
+    name: storage-bucket-config-connector
+    sources:
+    - https://cloud.google.com/config-connector/docs/reference/resource-docs/storage/storagebucket
+    type: application
+    urls:
+    - https://github.com/3cloudarch/config-connector-charts/releases/download/storage-bucket-config-connector-0.0.1/storage-bucket-config-connector-0.0.1.tgz
+    version: 0.0.1
   workload-identity-config-connector:
   - apiVersion: v2
     created: "2023-01-24T18:03:37.435953081Z"
@@ -82,4 +103,4 @@ entries:
     urls:
     - https://github.com/3cloudarch/config-connector-charts/releases/download/workload-identity-config-connector-0.0.1/workload-identity-config-connector-0.0.1.tgz
     version: 0.0.1
-generated: "2023-01-24T18:03:37.435960881Z"
+generated: "2023-01-24T18:07:05.551103477Z"
