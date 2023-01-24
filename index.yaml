@@ -59,4 +59,27 @@ entries:
     urls:
     - https://github.com/3cloudarch/config-connector-charts/releases/download/project-config-connector-0.0.1/project-config-connector-0.0.1.tgz
     version: 0.0.1
-generated: "2023-01-23T07:48:41.773036979Z"
+  workload-identity-config-connector:
+  - apiVersion: v2
+    created: "2023-01-24T18:03:37.435953081Z"
+    description: Chart to creata GCP service account, K8s service account and all
+      required resurces to enable workload identity
+    digest: f70d3e4645513e33cc09024568df9e8274a7ca6a9ecfd25edc9f56d82dd3c65a
+    home: 3cloudarch.com
+    keywords:
+    - kubernetes
+    - GCP
+    - config connector
+    - workload identity
+    - service account
+    maintainers:
+    - email: karol@cienkosz.com
+      name: Karol Cienkosz
+    name: workload-identity-config-connector
+    sources:
+    - https://cloud.google.com/config-connector/docs/reference/resource-docs/resourcemanager/project
+    type: application
+    urls:
+    - https://github.com/3cloudarch/config-connector-charts/releases/download/workload-identity-config-connector-0.0.1/workload-identity-config-connector-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-01-24T18:03:37.435960881Z"
